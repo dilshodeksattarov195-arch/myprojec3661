@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrncrypt",
+        "uuid": 14201019,
+        "checksum": "dnmgns"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
